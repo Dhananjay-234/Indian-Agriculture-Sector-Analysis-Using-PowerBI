@@ -36,6 +36,17 @@ This dashboard solves the problem by providing a centralized, visual analysis of
 2. Open the `.pbix` file in **Power BI Desktop**.  
 3. Explore the dashboard with available filters.  
 
+## 📂 Data Information  
+The dataset used in this project was provided in raw form and contained inconsistencies.  
+All **data cleaning and transformation** (such as handling missing values, formatting, and filtering)  
+were performed inside **Power BI Power Query Editor**.  
+
+Hence, the repository includes:  
+- `raw_data.csv` → Original dataset provided  
+- `Indian_Agriculture.pbix` → Contains all the cleaning steps and transformations applied  
+
+If needed, the cleaned data can be exported directly from the `.pbix` file.
+
 ## 🔮 Future Scope  
 - Integration with real-time agriculture data APIs  
 - AI/ML-based crop yield predictions  
