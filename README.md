@@ -26,10 +26,10 @@ This dashboard solves the problem by providing a centralized, visual analysis of
 - Area vs. production visualization  
 - Interactive filters for year, crop, and region  
 
-## 📷 Screenshots  
+## 📷 Screenshot 
   
 <img width="771" height="437" alt="image" src="https://github.com/user-attachments/assets/06830644-9fd3-4c92-9cc2-60a99c1764f0" />
-<img width="896" height="473" alt="image" src="https://github.com/user-attachments/assets/2e8133e4-b90a-48d5-8427-26db5ce91883" />
+
 
 ## 🚀 How to Use  
 1. Clone this repository.  
